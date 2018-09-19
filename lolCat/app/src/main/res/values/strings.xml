@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">lolCat</string>
+    <string name="touche_moi">Touche moi...</string>
+
 </resources>
